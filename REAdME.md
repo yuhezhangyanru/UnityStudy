@@ -1,1 +1,4 @@
-Hereis my unity study document
+1.20150609ScrollViewTest目录下：
+存放了一个通过封装NGUI来实现识别屏幕滑动的组件，可以单独下载导入直接使用；
+
+2.
