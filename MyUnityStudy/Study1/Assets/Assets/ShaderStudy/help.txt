@@ -1,0 +1,9 @@
+【新增】一些基本Shader效果的实现，
+
+ShaderEffectShow场景：RotateShader旋转效果的Shader,
+BaseShader重复的Shader,
+
+TillingShader带设置参数的重复效果Shader，
+
+Sample基本可改变贴图颜色的Shader.
+LightMapShow场景：LightMapShader实现了光照贴图的Shader
