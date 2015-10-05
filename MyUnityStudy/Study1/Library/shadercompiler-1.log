@@ -1,0 +1,226 @@
+Base path: G:/BigSoftware/Unity45/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-10024
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1799 outsize=853 ok=1
+Cmd: preprocess
+  insize=1818 outsize=872 ok=1
+Cmd: preprocess
+  insize=1898 outsize=706 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1491 outsize=1055 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1491 outsize=1355 kw= ok=1
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1170 outsize=542 ok=1
+Cmd: preprocess
+  insize=1060 outsize=487 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=871 outsize=1055 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=871 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1074 outsize=488 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): cannot implicitly convert from 'const float2' to 'float4'
+  api=4 type=0 insize=885 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1075 outsize=488 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): cannot implicitly convert from 'const float2' to 'float4'
+  api=4 type=0 insize=886 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1075 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=886 outsize=1095 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=886 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1074 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=885 outsize=1095 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=885 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1082 outsize=487 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=893 outsize=1233 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=893 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1186 outsize=487 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (34): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=997 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1186 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=997 outsize=1233 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=997 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1225 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1036 outsize=1185 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1036 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1486 outsize=488 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): undeclared identifier 'uvScalue'
+  api=4 type=0 insize=1297 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1620 outsize=488 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (46): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1431 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1622 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1433 outsize=1778 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1433 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1635 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1446 outsize=1778 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1446 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1778 outsize=488 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1589 outsize=1908 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1589 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=3027 outsize=490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2838 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2838 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=3026 outsize=490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2837 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2837 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=3028 outsize=489 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2839 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2839 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=3027 outsize=490 ok=1
+Cmd: preprocess
+  insize=2973 outsize=490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2784 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2784 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=2973 outsize=490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2784 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2784 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=3079 outsize=489 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): undeclared identifier 'uv'
+  api=4 type=0 insize=2890 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2975 outsize=490 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2786 outsize=2818 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2786 outsize=713 kw= ok=1
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1173 outsize=545 ok=1
+Cmd: preprocess
+  insize=1240 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1023 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1023 outsize=762 kw= ok=1
+Cmd: preprocess
+  insize=1236 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1019 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1019 outsize=648 kw= ok=1
+Cmd: preprocess
+  insize=1238 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'c'
+  api=4 type=0 insize=1021 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1242 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1025 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1025 outsize=973 kw= ok=1
+Cmd: preprocess
+  insize=1279 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1062 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1280 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1063 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1282 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1065 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1305 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (48): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1088 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1305 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (47): implicit truncation of vector type
+  error: 2 plat 4 at (48): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1088 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1283 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (47): undeclared identifier 'DecodeLightMap'
+  api=4 type=0 insize=1066 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1280 outsize=516 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (47): 'tex2D': no matching 1 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)
+  api=4 type=0 insize=1063 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1273 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1056 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1056 outsize=1071 kw= ok=1
+Cmd: preprocess
+  insize=1366 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1149 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1149 outsize=1128 kw= ok=1
+Cmd: preprocess
+  insize=1454 outsize=516 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1237 outsize=1363 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1237 outsize=1071 kw= ok=1
