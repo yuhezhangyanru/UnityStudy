@@ -5,9 +5,9 @@ using UnityEditor;
 
 public class AtlasAnalysis : Editor {
      
-    [MenuItem("MyMenu/AtlasAnalysis")]
-    public static void Init()
-    {
+    //[MenuItem("MyMenu/AtlasAnalysis")]
+    //public static void Init()
+    //{
 
-    }
+    //}
 }

@@ -11,3 +11,6 @@
 3.功能：Shader相关的材质案例，打开场景ShaderEffectShow、LightMapShow。
 shader路径：MyUnityStudy/Study1/Assets/Assets/ShaderStudy
 资源包路径：MyUnityStudy/packag/ShaderSourcePackage:可直接导入自己的项目使用
+
+4.主角实时阴影的效果，资源包可以导入工程直接使用
+全部资源的package路径：UnityStudy/package/show_shadow_package.package
